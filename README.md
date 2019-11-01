@@ -52,6 +52,9 @@ annotate
 ```
 Check out their Github page for more running options.
 
+#### CSS
+We use the [Bulma](https://bulma.io/documentation/) library for out-of-the-box CSS styles.
+
 ### The Problem
 Our stakeholder, the Bodega Marine Laboratory, has more data that they can keep track of! They want to have a central data repository for all of their abalone captive breeding data instead of just spreadhseets. It is hard to run reports and anlytics on the data when it's not all in one place.
 
